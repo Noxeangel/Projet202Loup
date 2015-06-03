@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelRoot>
+	<levelNumber>1</levelNumber>
+	<levelName>The Test Level</levelName>
+	<musicPath>Music/Level1.mp3</musicPath>
+	<BG>
+		<bgPath>Textures/BGs/bg_grasslands.png</bgPath>
+		<bgPlanesNumber> 54 </bgPlanesNumber>
+		<bgOffsetX>10</bgOffsetX>
+		<bgFirstPosition> 
+			<x> -10 </x>
+			<y> 0 </y>
+			<z> 0 </z>
+		</bgFirstPosition>
+	</BG>
+
+	<lane1>
+		<spawnPosition> 
+			<x> -3 </x>
+			<y> 2 </y>
+			<z> 0 </z>
+		</spawnPosition>
+		<tiles>
+			<tile>
+				<position>
+					<x> -9.5 </x>
+					<y> 1.5 </y>
+					<z> 0 </z>
+				</position>
+				<spritePath>Textures/Sprites/ground.png</spritePath>
+			</tile>
+		</tiles>
+	</lane1>
+	<lane2>
+
+	</lane2>
+</levelRoot>

@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &141340
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 430642}
+  - 114: {fileID: 11475534}
+  - 114: {fileID: 11406798}
+  - 114: {fileID: 11440680}
+  - 114: {fileID: 11486560}
+  - 114: {fileID: 11467700}
+  m_Layer: 0
+  m_Name: _Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &430642
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141340}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11406798
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21d7f881e16170f43ad04774c5f1a951, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameState: 0
+  timeBeforeGameBegin: 2
+  _audioManager: {fileID: 0}
+  character1Transform: {fileID: 0}
+  character2Transform: {fileID: 0}
+  topCamera: {fileID: 0}
+  botCamera: {fileID: 0}
+  countDownScreen: {fileID: 0}
+  loadingScreen: {fileID: 0}
+  isCharacter1OnTop: 1
+--- !u!114 &11440680
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68c51de55772d894c842af644c5f397f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11467700
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89658f235dd2019439464c6df38e3fbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AudioFolder: Audio
+  FeedBackVolume: 1
+--- !u!114 &11475534
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d786d39ffffb8643bfadb503a99f405, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isDebugManager: 1
+--- !u!114 &11486560
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a78e0b3189225d41ac479afdd547e92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioCollectible:
+  - {fileID: 8300000, guid: 605645436683dab479cdc55d4990ecec, type: 3}
+  audioJump:
+  - {fileID: 8300000, guid: b979083f9f6e37c42bb9e447c0a75a17, type: 3}
+  - {fileID: 8300000, guid: c96b406ceb2cf7b49a459d8d8c2e239f, type: 3}
+  - {fileID: 8300000, guid: 760823e69f99b9f4b9687129563b7b6c, type: 3}
+  audioEnemy:
+  - {fileID: 8300000, guid: cc5bde564e76a144b8aade7aaefba094, type: 3}
+  - {fileID: 8300000, guid: df5593e338fd8604eb93167b53fac5cd, type: 3}
+  - {fileID: 8300000, guid: a33dc004f6fd4824cb82cbc775ca729b, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 141340}
+  m_IsPrefabParent: 1

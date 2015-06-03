@@ -1,0 +1,1087 @@
+fileFormatVersion: 2
+guid: 193dea090244fd542acea87dbe3130d4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_spirtesheet_0
+    21300002: Player_spirtesheet_1
+    21300004: Player_spirtesheet_2
+    21300006: Player_spirtesheet_3
+    21300008: Player_spirtesheet_4
+    21300010: Player_spirtesheet_5
+    21300012: Player_spirtesheet_6
+    21300014: Player_spirtesheet_7
+    21300016: Player_spirtesheet_8
+    21300018: Player_spirtesheet_9
+    21300020: Player_spirtesheet_10
+    21300022: Player_spirtesheet_11
+    21300024: Player_spirtesheet_12
+    21300026: Player_spirtesheet_13
+    21300028: Player_spirtesheet_14
+    21300030: Player_spirtesheet_15
+    21300032: Player_spirtesheet_16
+    21300034: Player_spirtesheet_17
+    21300036: Player_spirtesheet_18
+    21300038: Player_spirtesheet_19
+    21300040: Player_spirtesheet_20
+    21300042: Player_spirtesheet_21
+    21300044: Player_spirtesheet_22
+    21300046: Player_spirtesheet_23
+    21300048: Player_spirtesheet_24
+    21300050: Player_spirtesheet_25
+    21300052: Player_spirtesheet_26
+    21300054: Player_spirtesheet_27
+    21300056: Player_spirtesheet_28
+    21300058: Player_spirtesheet_29
+    21300060: Player_spirtesheet_30
+    21300062: Player_spirtesheet_31
+    21300064: Player_spirtesheet_32
+    21300066: Player_spirtesheet_33
+    21300068: Player_spirtesheet_34
+    21300070: Player_spirtesheet_35
+    21300072: Player_spirtesheet_36
+    21300074: Player_spirtesheet_37
+    21300076: Player_spirtesheet_38
+    21300078: Player_spirtesheet_39
+    21300080: Player_spirtesheet_40
+    21300082: Player_spirtesheet_41
+    21300084: Player_spirtesheet_42
+    21300086: Player_spirtesheet_43
+    21300088: Player_spirtesheet_44
+    21300090: Player_spirtesheet_45
+    21300092: Player_spirtesheet_46
+    21300094: Player_spirtesheet_47
+    21300096: Player_spirtesheet_48
+    21300098: Player_spirtesheet_49
+    21300100: Player_spirtesheet_50
+    21300102: Player_spirtesheet_51
+    21300104: Player_spirtesheet_52
+    21300106: Player_spirtesheet_53
+    21300108: Player_spirtesheet_54
+    21300110: Player_spirtesheet_55
+    21300112: Player_spirtesheet_56
+    21300114: Player_spirtesheet_57
+    21300116: Player_spirtesheet_58
+    21300118: Player_spirtesheet_59
+    21300120: Player_spirtesheet_60
+    21300122: Player_spirtesheet_61
+    21300124: Player_spirtesheet_62
+    21300126: Player_spirtesheet_63
+    21300128: Player_spirtesheet_64
+    21300130: Player_spirtesheet_65
+    21300132: Player_spirtesheet_66
+    21300134: Player_spirtesheet_67
+    21300136: Player_spirtesheet_68
+    21300138: Player_spirtesheet_69
+    21300140: Player_spirtesheet_70
+    21300142: Player_spirtesheet_71
+    21300144: Player_spirtesheet_72
+    21300146: Player_spirtesheet_73
+    21300148: Player_spirtesheet_74
+    21300150: Player_spirtesheet_75
+    21300152: Player_spirtesheet_76
+    21300154: Player_spirtesheet_77
+    21300156: Player_spirtesheet_78
+    21300158: Player_spirtesheet_79
+    21300160: Player_spritesheet_0
+    21300162: Player_spritesheet_1
+    21300164: Player_spritesheet_2
+    21300166: Player_spritesheet_3
+    21300168: Player_spritesheet_4
+    21300170: Player_spritesheet_5
+    21300172: Player_spritesheet_6
+    21300174: Player_spritesheet_7
+    21300176: Player_spritesheet_8
+    21300178: Player_spritesheet_9
+    21300180: Player_spritesheet_10
+    21300182: Player_spritesheet_11
+    21300184: Player_spritesheet_12
+    21300186: Player_spritesheet_13
+    21300188: Player_spritesheet_14
+    21300190: Player_spritesheet_15
+    21300192: Player_spritesheet_16
+    21300194: Player_spritesheet_17
+    21300196: Player_spritesheet_18
+    21300198: Player_spritesheet_19
+    21300200: Player_spritesheet_20
+    21300202: Player_spritesheet_21
+    21300204: Player_spritesheet_22
+    21300206: Player_spritesheet_23
+    21300208: Player_spritesheet_24
+    21300210: Player_spritesheet_25
+    21300212: Player_spritesheet_26
+    21300214: Player_spritesheet_27
+    21300216: Player_spritesheet_28
+    21300218: Player_spritesheet_29
+    21300220: Player_spritesheet_30
+    21300222: Player_spritesheet_31
+    21300224: Player_spritesheet_32
+    21300226: Player_spritesheet_33
+    21300228: Player_spritesheet_34
+    21300230: Player_spritesheet_35
+    21300232: Player_spritesheet_36
+    21300234: Player_spritesheet_37
+    21300236: Player_spritesheet_38
+    21300238: Player_spritesheet_39
+    21300240: Player_spritesheet_40
+    21300242: Player_spritesheet_41
+    21300244: Player_spritesheet_42
+    21300246: Player_spritesheet_43
+    21300248: Player_spritesheet_44
+    21300250: Player_spritesheet_45
+    21300252: Player_spritesheet_46
+    21300254: Player_spritesheet_47
+    21300256: Player_spritesheet_48
+    21300258: Player_spritesheet_49
+    21300260: Player_spritesheet_50
+    21300262: Player_spritesheet_51
+    21300264: Player_spritesheet_52
+    21300266: Player_spritesheet_53
+    21300268: Player_spritesheet_54
+    21300270: Player_spritesheet_55
+    21300272: Player_spritesheet_56
+    21300274: Player_spritesheet_57
+    21300276: Player_spritesheet_58
+    21300278: Player_spritesheet_59
+    21300280: Player_spritesheet_60
+    21300282: Player_spritesheet_61
+    21300284: Player_spritesheet_62
+    21300286: Player_spritesheet_63
+    21300288: Player_spritesheet_64
+    21300290: Player_spritesheet_65
+    21300292: Player_spritesheet_66
+    21300294: Player_spritesheet_67
+    21300296: Player_spritesheet_68
+    21300298: Player_spritesheet_69
+    21300300: Player_spritesheet_70
+    21300302: Player_spritesheet_71
+    21300304: Player_spritesheet_72
+    21300306: Player_spritesheet_73
+    21300308: Player_spritesheet_74
+    21300310: Player_spritesheet_75
+    21300312: Player_spritesheet_76
+    21300314: Player_spritesheet_77
+    21300316: Player_spritesheet_78
+    21300318: Player_spritesheet_79
+    21300320: Player_spritesheet_80
+    21300322: Player_spritesheet_81
+    21300324: Player_spritesheet_82
+    21300326: Player_spritesheet_83
+    21300328: Player_spritesheet_84
+    21300330: Player_spritesheet_85
+    21300332: Player_spritesheet_86
+    21300334: Player_spritesheet_87
+    21300336: Player_spritesheet_88
+    21300338: Player_spritesheet_89
+    21300340: Player_spritesheet_90
+    21300342: Player_spritesheet_91
+    21300344: Player_spritesheet_92
+    21300346: Player_spritesheet_93
+    21300348: Player_spritesheet_94
+    21300350: Player_spritesheet_95
+    21300352: Player_spritesheet_96
+    21300354: Player_spritesheet_97
+    21300356: Player_spritesheet_98
+    21300358: Player_spritesheet_99
+    21300360: Player_spritesheet_100
+    21300362: Player_spritesheet_101
+    21300364: Player_spritesheet_102
+    21300366: Player_spritesheet_103
+    21300368: Player_spritesheet_104
+    21300370: Player_spritesheet_105
+    21300372: Player_spritesheet_106
+    21300374: Player_spritesheet_107
+    21300376: Player_spritesheet_108
+    21300378: Player_spritesheet_109
+    21300380: Player_spritesheet_110
+    21300382: Player_spritesheet_111
+    21300384: Player_spritesheet_112
+    21300386: Player_spritesheet_113
+    21300388: Player_spritesheet_114
+    21300390: Player_spritesheet_115
+    21300392: Player_spritesheet_116
+    21300394: Player_spritesheet_117
+    21300396: Player_spritesheet_118
+    21300398: Player_spritesheet_119
+    21300400: Player_spritesheet_120
+    21300402: Player_spritesheet_121
+    21300404: Player_spritesheet_122
+    21300406: Player_spritesheet_123
+    21300408: Player_spritesheet_124
+    21300410: Player_spritesheet_125
+    21300412: Player_spritesheet_126
+    21300414: Player_spritesheet_127
+    21300416: Player_spritesheet_128
+    21300418: Player_spritesheet_129
+    21300420: Player_spritesheet_130
+    21300422: Player_spritesheet_131
+    21300424: Player_spritesheet_132
+    21300426: Player_spritesheet_133
+    21300428: Player_spritesheet_134
+    21300430: Player_spritesheet_135
+    21300432: Player_spritesheet_136
+    21300434: Player_spritesheet_137
+    21300436: Player_spritesheet_138
+    21300438: Player_spritesheet_139
+    21300440: Player_spritesheet_140
+    21300442: Player_spritesheet_141
+    21300444: Player_spritesheet_142
+    21300446: Player_spritesheet_143
+    21300448: Player_spritesheet_144
+    21300450: Player_spritesheet_145
+    21300452: Player_spritesheet_146
+    21300454: Player_spritesheet_147
+    21300456: Player_spritesheet_148
+    21300458: Player_spritesheet_149
+    21300460: Player_spritesheet_150
+    21300462: Player_spritesheet_151
+    21300464: Player_spritesheet_152
+    21300466: Player_spritesheet_153
+    21300468: Player_spritesheet_154
+    21300470: Player_spritesheet_155
+    21300472: Player_spritesheet_156
+    21300474: Player_spritesheet_157
+    21300476: Player_spritesheet_158
+    21300478: Player_spritesheet_159
+    21300480: Player_spritesheet_160
+    21300482: Player_spritesheet_161
+    21300484: Player_spritesheet_162
+    21300486: Player_spritesheet_163
+    21300488: Player_spritesheet_164
+    21300490: Player_spritesheet_165
+    21300492: Player_spritesheet_166
+    21300494: Player_spritesheet_167
+    21300496: Player_spritesheet_168
+    21300498: Player_spritesheet_169
+    21300500: Player_spritesheet_170
+    21300502: Player_spritesheet_171
+    21300504: Player_spritesheet_172
+    21300506: Player_spritesheet_173
+    21300508: Player_spritesheet_174
+    21300510: Player_spritesheet_175
+    21300512: Player_spritesheet_176
+    21300514: Player_spritesheet_177
+    21300516: Player_spritesheet_178
+    21300518: Player_spritesheet_179
+    21300520: Player_spritesheet_180
+    21300522: Player_spritesheet_181
+    21300524: Player_spritesheet_182
+    21300526: Player_spritesheet_183
+    21300528: Player_spritesheet_184
+    21300530: Player_spritesheet_185
+    21300532: Player_spritesheet_186
+    21300534: Player_spritesheet_187
+    21300536: Player_spritesheet_188
+    21300538: Player_spritesheet_189
+    21300540: Player_spritesheet_190
+    21300542: Player_spritesheet_191
+    21300544: Player_spritesheet_192
+    21300546: Player_spritesheet_193
+    21300548: Player_spritesheet_194
+    21300550: Player_spritesheet_195
+    21300552: Player_spritesheet_196
+    21300554: Player_spritesheet_197
+    21300556: Player_spritesheet_198
+    21300558: Player_spritesheet_199
+    21300560: Player_spritesheet_200
+    21300562: Player_spritesheet_201
+    21300564: Player_spritesheet_202
+    21300566: Player_spritesheet_203
+    21300568: Player_spritesheet_204
+    21300570: Player_spritesheet_205
+    21300572: Player_spritesheet_206
+    21300574: Player_spritesheet_207
+    21300576: Player_spritesheet_208
+    21300578: Player_spritesheet_209
+    21300580: Player_spritesheet_210
+    21300582: Player_spritesheet_211
+    21300584: Player_spritesheet_212
+    21300586: Player_spritesheet_213
+    21300588: Player_spritesheet_214
+    21300590: Player_spritesheet_215
+    21300592: Player_spritesheet_216
+    21300594: Player_spritesheet_217
+    21300596: Player_spritesheet_218
+    21300598: Player_spritesheet_219
+    21300600: Player_spritesheet_220
+    21300602: Player_spritesheet_221
+    21300604: Player_spritesheet_222
+    21300606: Player_spritesheet_223
+    21300608: Player_spritesheet_224
+    21300610: Player_spritesheet_225
+    21300612: Player_spritesheet_226
+    21300614: Player_spritesheet_227
+    21300616: Player_spritesheet_228
+    21300618: Player_spritesheet_229
+    21300620: Player_spritesheet_230
+    21300622: Player_spritesheet_231
+    21300624: Player_spritesheet_232
+    21300626: Player_spritesheet_233
+    21300628: Player_spritesheet_234
+    21300630: Player_spritesheet_235
+    21300632: Player_spritesheet_236
+    21300634: Player_spritesheet_237
+    21300636: Player_spritesheet_238
+    21300638: Player_spritesheet_239
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 34
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 174
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 174
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 174
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 174
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 174
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 174
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 174
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 174
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 174
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 174
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 179
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 174
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 172
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 171
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 171
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 171
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 171
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 138
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 138
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 131
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 131
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 131
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 131
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 131
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 131
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 131
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 131
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 131
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 131
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 131
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 131
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 131
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 131
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 131
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 137
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 132
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 131
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 132
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 91
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 91
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 91
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 89
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 89
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 89
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 89
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 89
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 89
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 89
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 89
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 89
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 89
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 48
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 48
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 47
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 47
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 47
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 47
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 47
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 47
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 47
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 47
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 49
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 47
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 52
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 47
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 4
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
